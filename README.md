@@ -1,5 +1,13 @@
 This is a [FINANCE TRACKER APP](https://finance-tracker-react-8t75.vercel.app/)
 
+<div style="display: flex; margin: 12px;">
+  <div style="flex: 1; margin-right: 12px;">
+    <p>Screenshot </p>
+    <img src="src/screenshots/1.png" alt="Home Screenshot" />
+  </div>
+ 
+</div>
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
