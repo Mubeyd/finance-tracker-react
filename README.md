@@ -1,4 +1,4 @@
-This is a [FINANCE TRACKER APP](https://nextjs.org/)
+This is a [FINANCE TRACKER APP](https://finance-tracker-react-8t75.vercel.app/)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
